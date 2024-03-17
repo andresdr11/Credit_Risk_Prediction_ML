@@ -6,11 +6,11 @@ The goal of this project is to predict the probability of credit card default fo
 The dataset used for this project is "default of credit card clients," sourced from the University of California Irvine (UCI) Machine Learning Repository. It contains a total of 30,000 samples with 24 predictor variables (X) and one continuous target variable (Y).
 
 ### Libraries Used:
-pandas: For data manipulation and analysis.
-numpy: For numerical operations.
-scikit-learn: For implementing machine learning algorithms, data preprocessing, and model evaluation.
-matplotlib and seaborn: For data visualization.
-xlrd: For reading Excel files.
+- pandas: For data manipulation and analysis.
+- numpy: For numerical operations.
+- scikit-learn: For implementing machine learning algorithms, data preprocessing, and model evaluation.
+- matplotlib and seaborn: For data visualization.
+- xlrd: For reading Excel files.
 
 ### Functions Defined:
 relaciones_vs_target: Function to visualize scatter plots of predictor variables against the target variable.
