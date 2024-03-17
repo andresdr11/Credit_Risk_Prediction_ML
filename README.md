@@ -13,9 +13,9 @@ The dataset used for this project is "default of credit card clients," sourced f
 - xlrd: For reading Excel files.
 
 ### Functions Defined:
-relaciones_vs_target: Function to visualize scatter plots of predictor variables against the target variable.
-represento_doble_hist: Function to plot histograms of two probability distributions on the same graph.
-hist_pos_neg_feat: Function to represent predictor variables divided into two distributions based on the target variable's values.
+- relaciones_vs_target: Function to visualize scatter plots of predictor variables against the target variable.
+- represento_doble_hist: Function to plot histograms of two probability distributions on the same graph.
+- hist_pos_neg_feat: Function to represent predictor variables divided into two distributions based on the target variable's values.
 
 
 ### Feature Engineering:
